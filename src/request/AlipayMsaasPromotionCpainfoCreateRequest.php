@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-03-04 10:56:52
  */
+namespace Alezh\Alipay\request;
 class AlipayMsaasPromotionCpainfoCreateRequest
 {
 	/** 

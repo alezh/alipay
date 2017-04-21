@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-02-06 13:10:24
  */
+namespace Alezh\Alipay\request;
 class AlipayTrustUserStandardVerifyGetRequest
 {
 	/** 

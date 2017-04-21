@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-21 21:43:09
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenAppPackagetestRequest
 {
 	/** 

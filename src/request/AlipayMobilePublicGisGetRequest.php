@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-10-09 11:38:26
  */
+namespace Alezh\Alipay\request;
 class AlipayMobilePublicGisGetRequest
 {
 	/** 

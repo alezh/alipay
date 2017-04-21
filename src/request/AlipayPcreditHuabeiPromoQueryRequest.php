@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-03-03 17:48:05
  */
+namespace Alezh\Alipay\request;
 class AlipayPcreditHuabeiPromoQueryRequest
 {
 	/** 

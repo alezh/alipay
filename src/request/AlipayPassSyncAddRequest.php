@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-16 16:35:12
  */
+namespace Alezh\Alipay\request;
 class AlipayPassSyncAddRequest
 {
 	/** 

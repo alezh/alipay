@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-14 16:42:15
  */
+namespace Alezh\Alipay\request;
 class ZhimaCreditAntifraudVerifyRequest
 {
 	/** 

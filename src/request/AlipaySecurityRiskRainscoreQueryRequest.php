@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-21 10:28:01
  */
+namespace Alezh\Alipay\request;
 class AlipaySecurityRiskRainscoreQueryRequest
 {
 	/** 

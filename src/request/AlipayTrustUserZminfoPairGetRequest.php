@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-02-06 13:09:24
  */
+namespace Alezh\Alipay\request;
 class AlipayTrustUserZminfoPairGetRequest
 {
 	/** 

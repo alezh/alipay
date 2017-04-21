@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-06 22:21:41
  */
+namespace Alezh\Alipay\request;
 class MonitorHeartbeatSynRequest
 {
 	/** 

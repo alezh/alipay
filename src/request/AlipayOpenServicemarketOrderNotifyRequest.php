@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-03 20:05:26
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenServicemarketOrderNotifyRequest
 {
 

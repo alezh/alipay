@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-16 11:30:46
  */
+namespace Alezh\Alipay\request;
 class AlipayDaoweiOrderRefuseRequest
 {
 	/** 

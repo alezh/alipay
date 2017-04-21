@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-08 20:36:13
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoMycarParkingVehicleQueryRequest
 {
 	/** 

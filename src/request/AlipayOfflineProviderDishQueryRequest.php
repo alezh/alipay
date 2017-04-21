@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-31 13:28:51
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineProviderDishQueryRequest
 {
 	/** 

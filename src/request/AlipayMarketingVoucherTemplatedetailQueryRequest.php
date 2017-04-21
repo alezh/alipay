@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-29 11:07:30
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingVoucherTemplatedetailQueryRequest
 {
 	/** 

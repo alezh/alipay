@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-28 11:12:47
  */
+namespace Alezh\Alipay\request;
 class AlipayMobileBeaconDeviceQueryRequest
 {
 	/** 

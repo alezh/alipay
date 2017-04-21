@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-12 17:27:17
  */
+namespace Alezh\Alipay\request;
 class AlipaySecurityProdFingerprintVerifyRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-13 13:10:44
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCardDeleteRequest
 {
 	/** 

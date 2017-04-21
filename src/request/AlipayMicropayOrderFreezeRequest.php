@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-06 17:49:00
  */
+namespace Alezh\Alipay\request;
 class AlipayMicropayOrderFreezeRequest
 {
 	/** 

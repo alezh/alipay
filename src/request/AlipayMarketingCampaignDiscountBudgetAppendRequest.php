@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-08 12:53:50
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCampaignDiscountBudgetAppendRequest
 {
 	/** 

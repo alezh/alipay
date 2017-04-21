@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-14 19:53:15
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoCplifeUseridentityStatusUpdateRequest
 {
 	/** 

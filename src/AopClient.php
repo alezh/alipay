@@ -807,7 +807,7 @@ class AopClient {
 				"\n-----END PUBLIC KEY-----";
 		}else {
 			//读取公钥文件
-			$pubKey = file_get_contents($rsaPublicKeyFilePath);
+			$pubKey = file_get_contents($this->alipayPublicKey);
 			//转换为openssl格式密钥
 			$res = openssl_get_publickey($pubKey);
 		}
@@ -1260,11 +1260,9 @@ class AopClient {
 
 
 	function echoDebug($content) {
-
 		if ($this->debugInfo) {
 			echo "<br/>" . $content;
 		}
-
 	}
 
 

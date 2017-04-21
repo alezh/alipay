@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-14 16:49:12
  */
+namespace Alezh\Alipay\request;
 class KoubeiMarketingDataSmartactivityConfigRequest
 {
 	/** 

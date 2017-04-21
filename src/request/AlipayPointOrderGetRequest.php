@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-04-07 18:40:44
  */
+namespace Alezh\Alipay\request;
 class AlipayPointOrderGetRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-28 15:34:37
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCardTemplateModifyRequest
 {
 	/** 

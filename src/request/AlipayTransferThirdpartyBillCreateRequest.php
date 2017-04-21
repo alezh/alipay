@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2014-06-25 17:00:56
  */
+namespace Alezh\Alipay\request;
 class AlipayTransferThirdpartyBillCreateRequest
 {
 	/** 

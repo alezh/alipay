@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-03-29 11:34:45
  */
+namespace Alezh\Alipay\request;
 class AlipayEcapiprodDrawndnDrawndnlistQueryRequest
 {
 	/** 

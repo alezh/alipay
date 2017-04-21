@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-08 00:52:57
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenPublicInfoQueryRequest
 {
 

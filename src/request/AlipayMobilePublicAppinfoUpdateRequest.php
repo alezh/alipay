@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-01-06 21:23:43
  */
+namespace Alezh\Alipay\request;
 class AlipayMobilePublicAppinfoUpdateRequest
 {
 	/** 

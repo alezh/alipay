@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-02 19:53:47
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoWelfareCodeSyncRequest
 {
 	/** 

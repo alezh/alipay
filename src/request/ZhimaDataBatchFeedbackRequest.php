@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-21 18:50:38
  */
+namespace Alezh\Alipay\request;
 class ZhimaDataBatchFeedbackRequest
 {
 	/** 

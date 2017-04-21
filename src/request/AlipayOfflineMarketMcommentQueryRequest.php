@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-13 20:25:02
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketMcommentQueryRequest
 {
 	/** 

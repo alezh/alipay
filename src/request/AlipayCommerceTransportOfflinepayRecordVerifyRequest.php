@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-01 22:05:47
  */
+namespace Alezh\Alipay\request;
 class AlipayCommerceTransportOfflinepayRecordVerifyRequest
 {
 	/** 

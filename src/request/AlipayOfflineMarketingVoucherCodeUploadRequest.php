@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-23 17:58:11
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketingVoucherCodeUploadRequest
 {
 	/** 

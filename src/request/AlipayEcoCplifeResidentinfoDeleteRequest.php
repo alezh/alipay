@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-02 18:17:59
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoCplifeResidentinfoDeleteRequest
 {
 	/** 

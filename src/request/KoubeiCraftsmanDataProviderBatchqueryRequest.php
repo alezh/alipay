@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-13 16:27:52
  */
+namespace Alezh\Alipay\request;
 class KoubeiCraftsmanDataProviderBatchqueryRequest
 {
 	/** 

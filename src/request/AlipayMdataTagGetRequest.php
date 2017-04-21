@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-03-11 14:09:56
  */
+namespace Alezh\Alipay\request;
 class AlipayMdataTagGetRequest
 {
 	/** 

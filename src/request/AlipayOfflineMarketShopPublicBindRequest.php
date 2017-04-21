@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-29 19:57:30
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketShopPublicBindRequest
 {
 	/** 

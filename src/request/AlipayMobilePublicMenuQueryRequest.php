@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-11-27 11:29:48
  */
+namespace Alezh\Alipay\request;
 class AlipayMobilePublicMenuQueryRequest
 {
 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-14 22:26:53
  */
+namespace Alezh\Alipay\request;
 class KoubeiContentCommentReplyCreateRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-06 10:48:15
  */
+namespace Alezh\Alipay\request;
 class KoubeiItemExtitemExistedQueryRequest
 {
 	/** 

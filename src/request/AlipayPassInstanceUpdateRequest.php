@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-31 15:32:32
  */
+namespace Alezh\Alipay\request;
 class AlipayPassInstanceUpdateRequest
 {
 	/** 

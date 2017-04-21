@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-30 14:31:02
  */
+namespace Alezh\Alipay\request;
 class AlipayEbppPdeductSignValidateRequest
 {
 	/** 

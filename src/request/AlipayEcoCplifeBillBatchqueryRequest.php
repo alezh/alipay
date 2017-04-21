@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-10 18:52:46
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoCplifeBillBatchqueryRequest
 {
 	/** 

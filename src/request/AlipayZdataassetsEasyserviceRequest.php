@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-03-03 17:49:09
  */
+namespace Alezh\Alipay\request;
 class AlipayZdataassetsEasyserviceRequest
 {
 	/** 

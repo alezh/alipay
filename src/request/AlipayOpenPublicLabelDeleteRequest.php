@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-08 11:58:30
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenPublicLabelDeleteRequest
 {
 	/** 

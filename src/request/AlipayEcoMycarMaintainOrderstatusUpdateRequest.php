@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-21 12:12:48
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoMycarMaintainOrderstatusUpdateRequest
 {
 	/** 

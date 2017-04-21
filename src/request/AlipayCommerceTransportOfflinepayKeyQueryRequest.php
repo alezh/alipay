@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-01 22:05:32
  */
+namespace Alezh\Alipay\request;
 class AlipayCommerceTransportOfflinepayKeyQueryRequest
 {
 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-08 10:37:18
  */
+namespace Alezh\Alipay\request;
 class ZhimaAuthInfoAuthqueryRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-16 16:13:16
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketReportGetRequest
 {
 	/** 

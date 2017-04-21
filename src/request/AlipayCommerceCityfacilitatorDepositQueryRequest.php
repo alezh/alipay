@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-12-15 11:37:56
  */
+namespace Alezh\Alipay\request;
 class AlipayCommerceCityfacilitatorDepositQueryRequest
 {
 	/** 

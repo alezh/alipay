@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-13 17:20:12
  */
+namespace Alezh\Alipay\request;
 class AlipayUserInfoAuthRequest
 {
 	/** 

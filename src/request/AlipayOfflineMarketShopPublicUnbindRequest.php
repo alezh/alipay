@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-19 20:52:06
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketShopPublicUnbindRequest
 {
 	/** 

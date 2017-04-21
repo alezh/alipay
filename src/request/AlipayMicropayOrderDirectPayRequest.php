@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-15 16:27:00
  */
+namespace Alezh\Alipay\request;
 class AlipayMicropayOrderDirectPayRequest
 {
 	/** 

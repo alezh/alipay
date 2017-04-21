@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2014-05-28 11:58:01
  */
+namespace Alezh\Alipay\request;
 class AlipayAcquireQueryRequest
 {
 	/** 

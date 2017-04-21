@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-13 20:51:57
  */
+namespace Alezh\Alipay\request;
 class AlipayZdataserviceUnidataQueryRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-17 14:20:04
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMarketShopSummaryBatchqueryRequest
 {
 	/** 

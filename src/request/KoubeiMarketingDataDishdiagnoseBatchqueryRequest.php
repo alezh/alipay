@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-02 11:56:41
  */
+namespace Alezh\Alipay\request;
 class KoubeiMarketingDataDishdiagnoseBatchqueryRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-04-07 20:22:02
  */
+namespace Alezh\Alipay\request;
 class AlipayMobileStdPublicMessageCustomSendRequest
 {
 	/** 

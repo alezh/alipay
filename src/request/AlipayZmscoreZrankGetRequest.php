@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-02 14:27:12
  */
+namespace Alezh\Alipay\request;
 class AlipayZmscoreZrankGetRequest
 {
 	/** 

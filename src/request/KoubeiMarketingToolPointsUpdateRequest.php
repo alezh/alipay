@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-15 18:49:47
  */
+namespace Alezh\Alipay\request;
 class KoubeiMarketingToolPointsUpdateRequest
 {
 	/** 

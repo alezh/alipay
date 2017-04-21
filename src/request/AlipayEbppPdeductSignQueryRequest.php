@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-30 14:30:52
  */
+namespace Alezh\Alipay\request;
 class AlipayEbppPdeductSignQueryRequest
 {
 	/** 

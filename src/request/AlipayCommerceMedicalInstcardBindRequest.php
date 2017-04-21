@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-01 18:24:48
  */
+namespace Alezh\Alipay\request;
 class AlipayCommerceMedicalInstcardBindRequest
 {
 	/** 

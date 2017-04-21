@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-13 18:02:26
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenAuthIndustryPlatformCreateTokenRequest
 {
 	/** 

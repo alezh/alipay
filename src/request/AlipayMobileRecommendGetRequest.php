@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-03-11 15:19:54
  */
+namespace Alezh\Alipay\request;
 class AlipayMobileRecommendGetRequest
 {
 	/** 

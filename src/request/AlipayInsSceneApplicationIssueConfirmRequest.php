@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-20 14:55:26
  */
+namespace Alezh\Alipay\request;
 class AlipayInsSceneApplicationIssueConfirmRequest
 {
 	/** 

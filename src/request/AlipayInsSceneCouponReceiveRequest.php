@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-23 21:17:48
  */
+namespace Alezh\Alipay\request;
 class AlipayInsSceneCouponReceiveRequest
 {
 	/** 

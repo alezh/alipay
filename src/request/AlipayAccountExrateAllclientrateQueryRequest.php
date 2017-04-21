@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-23 14:55:48
  */
+namespace Alezh\Alipay\request;
 class AlipayAccountExrateAllclientrateQueryRequest
 {
 	/** 

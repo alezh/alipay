@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-25 10:44:10
  */
+namespace Alezh\Alipay\request;
 class KoubeiMarketingDataIndicatorQueryRequest
 {
 	/** 

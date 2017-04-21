@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-04-05 17:31:42
  */
+namespace Alezh\Alipay\request;
 class AlipayTradeWapPayRequest
 {
 	/** 

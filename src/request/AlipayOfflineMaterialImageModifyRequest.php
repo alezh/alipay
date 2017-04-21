@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-10-15 14:00:09
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineMaterialImageModifyRequest
 {
 

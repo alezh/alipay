@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-20 10:26:41
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenPublicFollowBatchqueryRequest
 {
 	/** 

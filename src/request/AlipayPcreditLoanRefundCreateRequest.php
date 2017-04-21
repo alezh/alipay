@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-25 10:32:15
  */
+namespace Alezh\Alipay\request;
 class AlipayPcreditLoanRefundCreateRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-12-19 20:53:20
  */
+namespace Alezh\Alipay\request;
 class AlipayMobilePublicQrcodeCreateRequest
 {
 	/** 

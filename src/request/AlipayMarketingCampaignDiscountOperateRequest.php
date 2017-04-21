@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-03 16:48:01
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCampaignDiscountOperateRequest
 {
 	/** 

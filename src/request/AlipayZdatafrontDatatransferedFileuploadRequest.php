@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-02-17 14:13:34
  */
+namespace Alezh\Alipay\request;
 class AlipayZdatafrontDatatransferedFileuploadRequest
 {
 	/** 

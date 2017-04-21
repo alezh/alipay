@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-29 17:12:42
  */
+namespace Alezh\Alipay\request;
 class AlipayExscUserCurrentsignGetRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-11-18 16:07:59
  */
+namespace Alezh\Alipay\request;
 class MybankFinanceYulibaoTransHistoryQueryRequest
 {
 	/** 

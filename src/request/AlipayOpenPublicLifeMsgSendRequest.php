@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-11 11:21:11
  */
+namespace Alezh\Alipay\request;
 class AlipayOpenPublicLifeMsgSendRequest
 {
 	/** 

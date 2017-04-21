@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-02 14:27:15
  */
+namespace Alezh\Alipay\request;
 class AlipayDataDataserviceChinaremodelQueryRequest
 {
 	/** 

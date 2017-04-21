@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-16 16:12:42
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineProviderStaffUpdateRequest
 {
 	/** 

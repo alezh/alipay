@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-10 16:05:46
  */
+namespace Alezh\Alipay\request;
 class AlipayDaoweiSpScheduleModifyRequest
 {
 	/** 

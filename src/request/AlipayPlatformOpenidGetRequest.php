@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-06-06 17:38:21
  */
+namespace Alezh\Alipay\request;
 class AlipayPlatformOpenidGetRequest
 {
 	/** 

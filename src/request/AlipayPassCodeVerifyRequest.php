@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2014-06-12 17:16:11
  */
+namespace Alezh\Alipay\request;
 class AlipayPassCodeVerifyRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-13 15:42:37
  */
+namespace Alezh\Alipay\request;
 class KoubeiMarketingDataCustomreportQueryRequest
 {
 	/** 

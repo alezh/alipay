@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-04-01 15:33:20
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCdpAdvertiseModifyRequest
 {
 	/** 

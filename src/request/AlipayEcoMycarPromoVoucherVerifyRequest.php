@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-24 22:03:31
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoMycarPromoVoucherVerifyRequest
 {
 	/** 

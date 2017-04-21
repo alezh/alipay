@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-26 13:19:59
  */
+namespace Alezh\Alipay\request;
 class AntMerchantExpandEnterpriseApplyRequest
 {
 	/** 

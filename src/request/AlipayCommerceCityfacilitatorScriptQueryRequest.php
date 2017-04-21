@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2015-12-09 16:24:55
  */
+namespace Alezh\Alipay\request;
 class AlipayCommerceCityfacilitatorScriptQueryRequest
 {
 	/** 

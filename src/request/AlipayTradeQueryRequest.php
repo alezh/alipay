@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-01-09 15:37:43
  */
+namespace Alezh\Alipay\request;
 class AlipayTradeQueryRequest
 {
 	/** 

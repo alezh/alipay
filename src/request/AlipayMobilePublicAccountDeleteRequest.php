@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-01-04 10:45:37
  */
+namespace Alezh\Alipay\request;
 class AlipayMobilePublicAccountDeleteRequest
 {
 	/** 

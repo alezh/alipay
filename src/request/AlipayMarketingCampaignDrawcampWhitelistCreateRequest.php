@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-23 14:21:46
  */
+namespace Alezh\Alipay\request;
 class AlipayMarketingCampaignDrawcampWhitelistCreateRequest
 {
 	/** 

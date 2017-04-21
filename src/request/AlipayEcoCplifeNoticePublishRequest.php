@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2017-03-02 18:17:16
  */
+namespace Alezh\Alipay\request;
 class AlipayEcoCplifeNoticePublishRequest
 {
 	/** 

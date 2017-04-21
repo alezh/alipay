@@ -5,6 +5,6 @@ class Alipay extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'Alipay';
+        return 'aopclient';
     }
 }

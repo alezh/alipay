@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-28 11:33:15
  */
+namespace Alezh\Alipay\request;
 class AlipayOfflineProviderMonitorLogSyncRequest
 {
 	/** 
