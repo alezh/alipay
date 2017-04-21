@@ -15,7 +15,7 @@ class AopClientProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__ . '/config/alipay.php' => config_path('alipay.php'),
-        ]);
+        ],'config');
     }
 
     /**

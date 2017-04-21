@@ -11,8 +11,9 @@ composer require alezh/alipay
  "alezh/alipay": "~1.0"
 ```
 
-下载完毕之后,直接配置 `app/config.php` 的 `providers`:
+下载完毕之后,直接配置 `config/app.php` 的 `providers`:
 
 ```php
-\Alezh\Alipay\AopClient::class,
+\Alezh\Alipay\AopClientProvider::class,
 ```
+$ php artisan vendor:publish --provider="Alezh\Alipay\AopClientProvider"
