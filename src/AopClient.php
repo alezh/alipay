@@ -62,14 +62,54 @@ class AopClient {
     public function __construct($config)
     {
         foreach ($config as $k => $v) {
-            $method = Str::studly($k);
+            $method = 'set'.Str::studly($k);
             if (method_exists($this, $method)) {
                 call_user_func([$this, $method], $v);
             }
         }
     }
 
+    public function setGatewayUrl($Key){
+        $this->gatewayUrl = $Key;
+        return $this;
+    }
 
+    public function setAppId($id){
+        $this->appId = $id;
+        return $this;
+    }
+
+    public function setRsaPrivateKeyFilePath($Path){
+        $this->rsaPrivateKeyFilePath = $Path;
+        return $this;
+    }
+
+    public function setRsaPrivateKey($Key){
+        $this->rsaPrivateKey = $Key;
+        return $this;
+    }
+
+    public function setAlipayPublicKey($Key){
+        $this->alipayPublicKey = $Key;
+        return $this;
+    }
+
+    public function setAlipayrsaPublicKey($Key){
+        $this->alipayrsaPublicKey = $Key;
+        return $this;
+    }
+    public function setFormat($Key){
+        $this->format = $Key;
+        return $this;
+    }
+    public function setSignType($Key){
+        $this->signType = $Key;
+        return $this;
+    }
+    public function setEncryptKey($Key){
+        $this->encryptKey = $Key;
+        return $this;
+    }
 
 
 	protected $alipaySdkVersion = "alipay-sdk-php-20161101";

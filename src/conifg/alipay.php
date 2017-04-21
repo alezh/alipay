@@ -1,4 +1,11 @@
 <?php
 return[
-
+    'GatewayUrl'=>'https://openapi.alipay.com/gateway.do',
+    'AppId'=>0,
+    'RsaPrivateKeyFilePath'=>'',
+    'RsaPrivateKey'=>'',
+    'AlipayPublicKey'=>'',
+    'AlipayrsaPublicKey'=>'',
+    'Format'=>'json',
+    'SignType'=>'RSA2'
 ];
